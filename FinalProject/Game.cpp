@@ -348,7 +348,7 @@ void Game::printTrophy()
 }
 
 /*************************************************************************
-Game destructor
+Game destructor 
 deallocate player from memory
 
 ==18300== HEAP SUMMARY:
